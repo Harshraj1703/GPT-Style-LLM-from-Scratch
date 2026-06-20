@@ -13,7 +13,7 @@ Follow the steps below to set up your local development environment and run the 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Harshraj1703/GPT-Style-LLM-from-Scratch.git>
 cd GPT-Style-LLM-From-Scratch
 ```
 
