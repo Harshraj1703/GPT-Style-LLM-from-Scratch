@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights & checkpoints
+*.pth
+*.pt
+*.bin
+*.ckpt
+*.h5
+*.safetensors
+
+# GPT-2 / LLM files
+gpt2/
+models/
+checkpoints/
+weights/
+
+# Logs
+*.log
+logs/
+
+# Chainlit
+.chainlit/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Personal notes
+steps_to_begin.txt
